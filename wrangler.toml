@@ -1,0 +1,7 @@
+name = "ethagent-landing"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = ".vercel/output/static"
+
+# Deploy: npm run pages:build && wrangler pages deploy
+# Or connect your GitHub repo to Cloudflare Pages dashboard
